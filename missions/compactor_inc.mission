@@ -36,6 +36,12 @@
             "quantity" : 10
          },
          {
+            "classname" : "Lacuna::DB::Result::Building::Permanent::InterDimensionalRift",
+            "extra_build_level" : "0",
+            "level" : "1",
+            "quantity" : 10
+         },
+         {
             "classname" : "Lacuna::DB::Result::Building::Permanent::LapisForest",
             "extra_build_level" : "0",
             "level" : "1",
@@ -95,6 +101,12 @@
          },
          {
             "classname" : "Lacuna::DB::Result::Building::Permanent::GeoThermalVent",
+            "extra_build_level" : "10",
+            "level" : "1",
+            "quantity" : 1
+         },
+         {
+            "classname" : "Lacuna::DB::Result::Building::Permanent::InterDimensionalRift",
             "extra_build_level" : "10",
             "level" : "1",
             "quantity" : 1
